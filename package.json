@@ -1,0 +1,28 @@
+{
+  "name": "larva",
+  "version": "0.0.2",
+  "description": "Getting started with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:danielj3489/npm-demo.git"
+  },
+  "keywords": [
+    "frog",
+    "demo",
+    "larva"
+  ],
+  "author": "Daniel Jacobson",
+  "license": "BSD",
+  "dependencies": {
+    "express": "2.3.12",
+    "jade": ">= 0.0.1",
+    "redis": "0.6.0",
+    "async": "0.2.10"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "2ee86ce0c9c61fc958d97bc4fcade497ffe2dbd3"
+}
